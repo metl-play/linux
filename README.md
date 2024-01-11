@@ -28,3 +28,7 @@ Build status for rpi-6.1.y:
 Build status for rpi-6.6.y:
 [![Pi kernel build tests](https://github.com/raspberrypi/linux/actions/workflows/kernel-build.yml/badge.svg?branch=rpi-6.6.y)](https://github.com/raspberrypi/linux/actions/workflows/kernel-build.yml)
 [![dtoverlaycheck](https://github.com/raspberrypi/linux/actions/workflows/dtoverlaycheck.yml/badge.svg?branch=rpi-6.6.y)](https://github.com/raspberrypi/linux/actions/workflows/dtoverlaycheck.yml)
+
+Build status for rpi-6.7.y:
+[![Pi kernel build tests](https://github.com/metl-play/linux/actions/workflows/kernel-build.yml/badge.svg?branch=rpi-6.7.y)](https://github.com/metl-play/linux/actions/workflows/kernel-build.yml)
+[![dtoverlaycheck](https://github.com/metl-play/linux/actions/workflows/dtoverlaycheck.yml/badge.svg?branch=rpi-6.7.y)](https://github.com/metl-play/linux/actions/workflows/dtoverlaycheck.yml)
